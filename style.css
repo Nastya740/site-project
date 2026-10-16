@@ -66,14 +66,14 @@ flex-wrap: wrap;
 }
 
 nav a{
-color: #f5f0e8;
+color: #f5f0e9;
 font-size: 0.85rem;
 text-transform: uppercase;
 letter-spacing: 1px;
 }
 
 nav a:hover{
-color: #c9a96e;
+color: #c9a96a;
 }
 
 .hero{
