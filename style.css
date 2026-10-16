@@ -34,10 +34,10 @@ padding: 0 20px;
 
 header{
 background: #0b0b0b;
-padding: 20px;
+padding: 30px;
 border-bottom: 1px solid #c9a96e33;
 position: sticky;
-top: 0;
+top: 10;
 }
 
 .header-inner {
